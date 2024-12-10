@@ -1,8 +1,4 @@
-Below is a revised README that incorporates the additional studies and insights about ADHD and emotional dysregulation, as well as how CBT strategies may help.
-
----
-
-# README: Understanding ADHD, Emotional Dysregulation, and How These Tools Can Help
+Understanding ADHD, Emotional Dysregulation, and How These Tools Can Help
 
 ### The Link Between ADHD and Emotional Dysregulation
 
