@@ -59,4 +59,3 @@ While these materials are not a substitute for professional treatment, they can 
 **In Summary:**  
 These materials aim to address the well-documented link between ADHD and emotional dysregulation, providing CBT-based tools that empower individuals to understand what’s happening in their minds, challenge unhelpful thoughts, and develop practical strategies to navigate their emotional worlds more confidently.
 
-Paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280131
